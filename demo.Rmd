@@ -1,8 +1,8 @@
 ---
 title: "demo"
-author: "Colin Rundel"
+author: "Finn Lindgren"
 date: "6/24/2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -28,3 +28,5 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Hi!
